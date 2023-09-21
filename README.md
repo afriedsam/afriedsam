@@ -19,14 +19,17 @@ As the founder and primary developer, I am leading [SpotConnect](https://spotcon
 
 ### 🛠 Other Independent Projects
 
-#### 🔬 Arduino-Powered PCR Machine
-Programmed and built an Arduino-powered polymerase chain reaction (PCR) machine. [Learn More](https://www.friedsamengineering.com/polymerase-chain-reaction)
+#### 🎶 Playlist Converter CLI
+Developing a Python CLI tool that automatically converts public playlists from Apple Music to Spotify. (Coming Soon)
+
+#### 💰 Bitcoin Twitter Bot: HourlyBTCUpdate
+Built a bot that tweets the current price of Bitcoin every hour. Initially deployed on a Raspberry Pi using Python, I migrated the bot to Node.js and Google Cloud to adapt to Twitter API v2 changes. Check out the Twitter account [here](https://twitter.com/HourlyBTCUpdate/).
 
 #### 📰 Riverdale Review iPhone App
 Designed, developed, and launched an iPhone app for Riverdale's student-run newspaper. [Learn More](https://www.friedsamengineering.com/riverdale-review)
 
-#### 🎶 Playlist Converter CLI
-Developing a Python CLI tool that automatically converts public playlists from Apple Music to Spotify. (Coming Soon)
+#### 🔬 Arduino-Powered PCR Machine
+Programmed and built an Arduino-powered polymerase chain reaction (PCR) machine. [Learn More](https://www.friedsamengineering.com/polymerase-chain-reaction)
 
 ## 👨‍💼 Professional Experience
 
