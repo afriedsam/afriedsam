@@ -4,7 +4,7 @@
 
 ## 📚 About Me
 
-I'm a junior majoring in Computer Science at the University of Michigan. I am passionate about utilizing technology and programming to solve real-world problems and enhance efficiency in daily tasks.
+I'm a senior majoring in Computer Science at the University of Michigan. I am passionate about utilizing technology and programming to solve real-world problems and enhance efficiency in daily tasks. This past summer I worked as a Software Engineering Intern at Datadog, and will be returning full time in August 2025.
 
 ## 💡 Projects
 
@@ -20,7 +20,7 @@ As the founder and primary developer, I am leading [SpotConnect](https://spotcon
 ### 🛠 Other Independent Projects
 
 #### 🎶 Playlist Converter CLI
-Developing a Python CLI tool that automatically converts public playlists from Apple Music to Spotify. (Coming Soon)
+Developing a Python CLI tool that automatically converts public playlists from Apple Music to Spotify.
 
 #### 💰 Bitcoin Twitter Bot: HourlyBTCUpdate
 Built a bot that tweets the current price of Bitcoin every hour. Initially deployed on a Raspberry Pi using Python, I migrated the bot to Node.js and Google Cloud to adapt to Twitter API v2 changes. Check out the Twitter account [here](https://twitter.com/HourlyBTCUpdate/).
@@ -33,6 +33,13 @@ Programmed and built an Arduino-powered polymerase chain reaction (PCR) machine.
 
 ## 👨‍💼 Professional Experience
 
+### 🐶 Datadog, Software Engineering Intern – Summer 2024
+- Intern on AAA Core Access Team
+- Created usage tracking features for App Keys, Users, Service Accounts and IP Allowlist
+- Added new IP Allowlist features to support batch adding previously used IP addresses to allowlist
+- Migrated IP Allowlist endpoints from Python to Go, reducing latency by up to 95% in some cases.
+  - Led database schema splitout to support the migration.
+
 ### 🏦 Ninth Wave, Software Engineering Intern – Summer 2023
 - Developed an API that links SQL databases with front-end dashboards, enhancing financial data exchange for Ninth Wave's institutional clients.
 - Utilized technologies such as SQL, Spring-Boot, and Java.
@@ -44,7 +51,7 @@ Programmed and built an Arduino-powered polymerase chain reaction (PCR) machine.
 
 ## 📅 What's Next?
 
-I am actively seeking Software Engineering internship opportunities for Summer 2024. Interested in collaborating? Feel free to reach out.
+I worked as a software Engineering Intern at Datadog during summer 2024. I am now finishing my CS Degree at Michigan with plans to return full time to Datadog in August of 2025.
 
 ## 📫 Let's Connect
 
